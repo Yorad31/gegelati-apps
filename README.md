@@ -1,5 +1,5 @@
 # GEGELATI Applications
-
+This project is tested with BrowserStack
 The purpose of this repository is to gather several applications built with the [GEGELATI library](https://github.com/gegelati/gegelati).
 
 ## Available applications
